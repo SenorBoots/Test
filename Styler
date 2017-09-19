@@ -1,0 +1,9 @@
+body {
+  color:white;
+}
+#opener{
+  background-color:blue;
+}
+#second{
+  background-color:green;
+}
